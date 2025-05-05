@@ -14,7 +14,7 @@ I am a passionate Full Stack Developer with a strong focus on building efficient
 - Continuously learn and implement new technologies to enhance the development process.
 
 ## 🌱 Currently Learning:
-Always on the lookout for new challenges, I’m currently diving deeper into [specific technology, framework, or concept you want to learn].
+Always on the lookout for new challenges, I’m currently diving deeper into JavaScript, Java, Machine Learning ,AI and Cloud Computing].
 
 ## 📫 Get in Touch:
 Feel free to reach out if you want to collaborate on a project, share knowledge, or discuss tech trends! You can find me on [LinkedIn/Twitter/Personal Website], or just drop me a message here!
